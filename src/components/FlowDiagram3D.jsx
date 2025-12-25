@@ -39,7 +39,7 @@ const Connection = ({ start, end }) => {
 
 const FlowDiagram3D = ({ position = [0, 0, 0] }) => {
     const nodes = [
-        { id: 1, pos: [-3, 2, 0], label: "New Vikas", subLabel: "Buys Embiotic @ ₹70Cr", color: "#0056b3" },
+        { id: 1, pos: [-3, 2, 0], label: "NuVikas", subLabel: "Buys Embiotic @ ₹70Cr", color: "#0056b3" },
         { id: 2, pos: [3, 2, 0], label: "Sun Pharma", subLabel: "Funds ₹40-50Cr", color: "#008080" },
         { id: 3, pos: [0, -2, 0], label: "Post-Deal", subLabel: "26% Equity / Royalty", color: "#666666" },
     ];

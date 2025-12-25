@@ -20,11 +20,11 @@ const FlowDiagram = () => {
                 {/* Step 1 & 2 Row */}
                 <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '2rem', width: '100%' }}>
 
-                    {/* New Vikas */}
+                    {/* Sun Pharma */}
                     <div style={{ flex: 1, minWidth: '250px', padding: '1rem', background: '#e6f0ff', borderRadius: '8px', border: '1px solid #b3d1ff', position: 'relative' }}>
-                        <h4 style={{ color: 'var(--color-primary)' }}>1. Acquisition</h4>
-                        <p><strong>New Vikas</strong> buys <strong>Embiotic</strong></p>
-                        <div className="highlight-value" style={{ fontSize: '1.2rem' }}>@ ₹70 Cr</div>
+                        <h4 style={{ color: 'var(--color-secondary)' }}>1. Funding</h4>
+                        <p><strong>Sun Pharma</strong> injects funds</p>
+                        <div className="highlight-value" style={{ fontSize: '1.2rem' }}>₹40–₹50 Cr</div>
                     </div>
 
                     {/* Arrow */}
@@ -33,11 +33,11 @@ const FlowDiagram = () => {
                         <ArrowDown size={32} color="#ccc" className="mobile-arrow" style={{ display: 'none' }} />
                     </div>
 
-                    {/* Sun Pharma */}
+                    {/* New Vikas */}
                     <div style={{ flex: 1, minWidth: '250px', padding: '1rem', background: '#e6fffa', borderRadius: '8px', border: '1px solid #b3ffe6' }}>
-                        <h4 style={{ color: 'var(--color-secondary)' }}>2. Funding</h4>
-                        <p><strong>Sun Pharma</strong> injects funds</p>
-                        <div className="highlight-value" style={{ fontSize: '1.2rem' }}>₹40–₹50 Cr</div>
+                        <h4 style={{ color: 'var(--color-primary)' }}>2.Acquisition </h4>
+                        <p><strong>NuVikas</strong> buys <strong>Embiotic</strong></p>
+                        <div className="highlight-value" style={{ fontSize: '1.2rem' }}>@ ₹70 Cr</div>
                     </div>
 
                 </div>
@@ -57,6 +57,14 @@ const FlowDiagram = () => {
                                 <li>26% Royalty</li>
                                 <li>10-Year Repayment</li>
                             </ul>
+                        </div>
+
+                        <div style={{ width: '1px', background: '#ccc' }}></div>
+
+                        <div style={{ textAlign: 'center' }}>
+                            <div style={{ fontWeight: 'bold', color: 'var(--color-secondary)' }}>NuVikas Pvt Ltd</div>
+                            <div style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>64%</div>
+                            <div style={{ fontSize: '0.8rem', color: '#666' }}>Post-Deal Equity</div>
                         </div>
 
                         <div style={{ width: '1px', background: '#ccc' }}></div>

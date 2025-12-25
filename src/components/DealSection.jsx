@@ -20,7 +20,7 @@ const DealSection = () => {
                 <div>
                     <h4 style={{ color: 'var(--color-secondary)', marginBottom: '0.5rem' }}>The Goal</h4>
                     <p style={{ marginBottom: '1.5rem' }}>
-                        Sun Pharma invests in New Vikas to enable the outright acquisition of Embiotic Pharma.
+                        Sun Pharma invests in NuVikas to enable the outright acquisition of Embiotic Pharma.
                     </p>
 
                     <h4 style={{ color: 'var(--color-secondary)', marginBottom: '0.5rem' }}>Deal Terms</h4>

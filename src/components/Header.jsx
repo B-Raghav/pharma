@@ -14,7 +14,7 @@ const Header = () => {
             </div>
             <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>Strategic Investment Overview</h1>
             <p className="sub-text" style={{ fontSize: '1.1rem' }}>
-                New Vikas Pvt Ltd • Embiotic Pharma • Sun Pharma
+                NuVikas Pvt Ltd • Embiotic Pharma
             </p>
         </motion.header>
     );

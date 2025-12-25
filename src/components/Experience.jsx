@@ -64,7 +64,7 @@ const Experience = () => {
                                 anchorY="middle"
                                 textAlign="center"
                             >
-                                New Vikas Pvt Ltd • Embiotic Pharma • Sun Pharma
+                                NuVikas Pvt Ltd • Embiotic Pharma • Sun Pharma
                             </Text>
                         </Float>
 
@@ -90,7 +90,7 @@ const Experience = () => {
                                     anchorX={isMobile ? "center" : "left"}
                                     anchorY="top"
                                 >
-                                    Founder of New Vikas Pvt Ltd
+                                    Founder of NuVikas Pvt Ltd
                                 </Text>
                             </group>
                         </group>

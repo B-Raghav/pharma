@@ -30,7 +30,7 @@ const CompanyOverview = () => {
                         </li>
                         <li style={{ marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                             <div style={{ width: '8px', height: '8px', borderRadius: '50%', background: 'var(--color-secondary)' }}></div>
-                            <span><strong>125+</strong> Licenses Held</span>
+                            <span><strong>1250+</strong> Licenses Held</span>
                         </li>
                         <li style={{ marginBottom: '1rem' }}>
                             <span className="sub-text">Total Valuation</span>
